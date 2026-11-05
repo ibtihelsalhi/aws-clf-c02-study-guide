@@ -18,8 +18,8 @@ It follows the **official AWS exam guide (version 1.3)** task statement by task 
 
 > [!TIP]
 > **Two PDF editions:**
-> - [**Complete course**](pdf/AWS-CLF-C02-Complete-Course.pdf) (90 pages): every topic explained from zero, with analogies, examples and diagrams. Best to learn.
-> - [**Essential edition**](pdf/AWS-CLF-C02-Essential-Edition.pdf) (32 pages): the same exam content, concise and without repetition. Best to study fast and to revise.
+> - [**Complete course**](pdf/AWS-CLF-C02-Complete-Course.pdf) (88 pages): every topic explained from zero, with analogies, examples, notes and diagrams. The main course.
+> - [**Essential edition**](pdf/AWS-CLF-C02-Essential-Edition.pdf) (32 pages): a short version for the last days of revision.
 
 ## The exam at a glance
 
@@ -60,7 +60,7 @@ aws-clf-c02-study-guide/
 ├── README.md
 ├── course/          the course, one file per part
 ├── practice/        70 practice questions with answers
-├── pdf/             complete course (90 pages) and essential edition (32 pages)
+├── pdf/             complete course (88 pages) and essential edition (32 pages)
 └── assets/          banners
 ```
 
