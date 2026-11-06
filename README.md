@@ -3,6 +3,7 @@
 <img src="assets/banner.svg" alt="AWS Certified Cloud Practitioner CLF-C02, the complete course" width="100%"/>
 
 <img src="https://img.shields.io/badge/Exam-CLF--C02-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" alt="CLF-C02"/>
+<img src="https://img.shields.io/badge/Author-AWS_Certified_%7C_1000%2F1000-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900" alt="Author: AWS Certified, score 1000/1000"/>
 <img src="https://img.shields.io/badge/Exam_guide-v1.3-232F3E?style=flat-square" alt="Exam guide v1.3"/>
 <img src="https://img.shields.io/badge/Level-Beginner_friendly-0f6e74?style=flat-square" alt="Beginner friendly"/>
 <img src="https://img.shields.io/badge/Practice-70_questions-5b4499?style=flat-square" alt="70 practice questions"/>
@@ -20,6 +21,12 @@ It follows the **official AWS exam guide (version 1.3)** task statement by task 
 > **Two PDF editions:**
 > - [**Complete course**](pdf/AWS-CLF-C02-Complete-Course.pdf) (88 pages): every topic explained from zero, with analogies, examples, notes and diagrams. The main course.
 > - [**Essential edition**](pdf/AWS-CLF-C02-Essential-Edition.pdf) (32 pages): a short version for the last days of revision.
+
+## Written by a certified practitioner
+
+I passed the **AWS Certified Cloud Practitioner (CLF-C02)** exam on **5 November 2026** with a score of **1000 / 1000**, studying with this course.
+
+<p align="center"><img src="assets/score-report.png" width="600" alt="AWS notice of exam results: AWS Certified Cloud Practitioner, score 1000, PASS"/></p>
 
 ## The exam at a glance
 
